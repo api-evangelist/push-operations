@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Push Operations is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://pushoperations.com/
+Push Operations provides a cloud‑based platform for payroll, human resources, scheduling, time tracking, and workforce management tailored primarily to the hospitality industry. The SaaS solution automates payroll processing, employee onboarding, shift scheduling, compliance reporting, and offers real‑time business intelligence dashboards. It serves restaurants, quick‑service chains, coffee shops, pizzerias, pubs and breweries, enabling them to streamline operations, reduce manual effort, and improve profitability.
+
+**Areas:** Payroll · HR · Workforce Management · SaaS · Hospitality · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pushoperations.com/)
+- [Documentation](https://developers.pushoperations.com/)
+- [Getting started](https://www.pushoperations.com/book-a-demo)
+- [Pricing](https://www.pushoperations.com/pushpricing)
+- [Sign up](https://app-elb.pushoperations.com/login)
+- [Support](https://www.pushoperations.com/support)
+- [Blog](https://www.pushoperations.com/blog)
+- [Compliance](https://app.drata.com/trust/9cc3aa81-0c38-11ee-865f-029d78a187d9)
+- [Terms of service](https://www.pushoperations.com/terms-of-use)
+- [Privacy policy](https://www.pushoperations.com/privacy-policy)
+- [GitHub](https://github.com/pushoperations)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/push-operations/](https://apis.io/providers/push-operations/).
